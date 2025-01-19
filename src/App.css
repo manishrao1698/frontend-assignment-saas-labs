@@ -1,4 +1,4 @@
-/* Basic styling for body */
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -6,7 +6,6 @@ body {
   background-color: #f4f4f4;
 }
 
-/* Container for the table and pagination */
 .container {
   width: 80%;
   margin: auto;
@@ -16,7 +15,6 @@ body {
   margin-top: 30px;
 }
 
-/* Table styling */
 table {
   width: 100%;
   margin-top: 20px;
@@ -38,7 +36,6 @@ td {
   background-color: #f9f9f9;
 }
 
-/* Pagination buttons styling */
 .pagination {
   display: flex;
   justify-content: center;
